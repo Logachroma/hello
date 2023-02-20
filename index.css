@@ -1,0 +1,9 @@
+h1 {
+    font-size: 30px;
+    color: hwb(239 0% 0%);
+}
+
+.output {
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+}
